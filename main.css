@@ -143,3 +143,43 @@ h3{
 .box{
   margin-left: 90px;
 }
+
+.cont-1{
+  background-color: #F9F9F9;
+}
+
+.cont-2{
+  background-color: #75B9E7;
+}
+
+.section-5,
+.section-5-{
+  color: #fff;
+  font-family: "proxima-nova-soft";
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.section-5{
+  font-size: 60px;
+}
+
+.section-5-{
+  font-size: 20px;
+}
+
+.section-6,
+.section-6-{
+  color: #fff;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-family: "proxima-nova-soft";
+}
+
+.section-6{
+  font-size: 23px;
+}
+
+.section-6-{
+  font-size: 15px;
+}
