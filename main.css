@@ -2,10 +2,15 @@
   box-sizing: border-box;
   margin: 0;
 }
+
 nav{
   padding: 30px;
   background-color: #9ACCEF;
   width: 100%;
+}
+
+.navbar{
+  margin-bottom: -20px;
 }
 
 #logo{
