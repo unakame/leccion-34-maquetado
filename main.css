@@ -5,6 +5,7 @@
 nav{
   padding: 30px;
   background-color: #9ACCEF;
+  width: 100%;
 }
 
 #logo{
@@ -271,4 +272,17 @@ i{
 
 #contact{
   margin-left: 300px;
+}
+
+.olark-launch-button {
+    background-color: #ffffff !important;
+    position: fixed;
+    right: 20px;
+    border-radius: 8px 8px 0 0 !important;
+    bottom: 0 !important;
+}
+
+.icon--step-quote {
+    background-image: url(data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A//www.w3.org…646%200-1.17-.52-1.17-1.17%200-.646.525-1.17%201.17-1.17z%22/%3E%3C/svg%3E);
+    background-repeat: no-repeat;
 }
