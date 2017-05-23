@@ -26,11 +26,13 @@
 
 .icon-twitter:before {
   content: "\e900";
-  color: #fff;
+  color:#fff;
 }
 .icon-google:before {
   content: "\e901";
+  color:#fff;
 }
 .icon-facebook:before {
   content: "\ea90";
+  color:#fff;
 }
