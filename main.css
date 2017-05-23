@@ -112,3 +112,34 @@ h3{
  line-height: 230%;
  font-size: 16.5px;
 }
+
+.section-3{
+  font-family: "proxima-nova-soft";
+  font-weight: bold;
+  color: #399ADC;
+  font-size: 60px;
+}
+
+.section-3-{
+  font-family: "proxima-nova-soft";
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.section-4{
+  color: #93BB70;
+  font-family: "proxima-nova-soft";
+  font-weight: bold;
+  text-align: center;
+}
+
+.section-4-{
+  font-family: "proxima-nova-soft";
+  font-weight: bold;
+  line-height: 200%;
+  text-align: center;
+}
+
+.box{
+  margin-left: 90px;
+}
