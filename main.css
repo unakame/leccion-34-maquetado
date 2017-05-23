@@ -13,6 +13,15 @@ nav{
   margin-bottom: -20px;
 }
 
+span{
+  height: 30px;
+  width: 30px;
+}
+.icon{
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+}
 #logo{
   height: 45px;
   width: 90px;
@@ -290,4 +299,8 @@ i{
 .icon--step-quote {
     background-image: url(data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A//www.w3.org…646%200-1.17-.52-1.17-1.17%200-.646.525-1.17%201.17-1.17z%22/%3E%3C/svg%3E);
     background-repeat: no-repeat;
+}
+
+#nic{
+  margin-left: 210px
 }
