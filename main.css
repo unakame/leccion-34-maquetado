@@ -53,16 +53,62 @@ a{
 .celeste{
   background-color: #9ACCEF;
   width: 100%;
-  height: 700px;
+  height: 450px;
 }
 
-h1{
+#you-move{
   padding: 40px;
   color: #fff;
-    height: 100%;
+
     z-index: +30;
+    font-size: 60px;
+    margin-top: 140px;
+    font-family: "proxima-nova-soft";
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: 0;
 }
 
 section{
   height: 100%
+}
+
+.icon--hero-bg {
+        background-size: 1600px;
+        background-position: top right;
+        height: 93%;
+        z-index: +4;
+    }
+
+.container-fluid{
+  padding-left: 0; !important
+  padding-right: 0; !important
+}
+
+body{
+  border-color: black;
+}
+
+h3{
+  margin-top: -35px; !important
+  font-family: "proxima-nova-soft";
+  color: #fff;
+  font-weight: 400;
+  font-size: 23px;
+}
+
+.section-2{
+  color: #399ADC;
+  font-weight: bold;
+  font-family: "proxima-nova-soft";
+  margin-left: 200px;
+  font-size: 50px;
+}
+
+.section-2-{
+ font-family: "proxima-nova-soft";
+ margin-left: 200px;
+ font-weight: bold;
+ line-height: 230%;
+ font-size: 16.5px;
 }
